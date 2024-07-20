@@ -8,4 +8,3 @@ viernes = int(input("Hora de llegada:  "))
 
 for lunes in semana
 
-print ("Prueba github")
